@@ -1,0 +1,14 @@
+# 環境變數（含 API key，絕對不可上傳）
+.env
+
+# 虛擬環境
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 資料（DB、session、報告圖片）
+data/
+
+# macOS
+.DS_Store
